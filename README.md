@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a Health Researcher, Research Data Analyst, and Clinician who is passionate about using data to advance equity, improving health & well-being outcomes, and transforming healthcare. I have over 4️⃣ years of experience leading research and data analysis projects, supporting operational decision-making and providing consulting services.
+
 <!--
 **davenalcsw/davenalcsw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
