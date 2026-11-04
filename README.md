@@ -1,4 +1,4 @@
-## Welcome 👋🏾
+## 👋🏾 Welcome 
 
 <div align="center">
 <!--  You can customize the typing text in the "lines=" section of the URL below -->
@@ -8,14 +8,9 @@
 
 
 I'm a Health Researcher/Research Data Analyst + Clinician who is passionate about advancing equity, improving health & well-being outcomes, and transforming healthcare. 
-
-I have over 4️⃣ years of experience leading research and data analysis projects and conducting statistical analyses.
-
-I'm a Clinician with experience conducting assessments and evaluations. 
-
-I enjoy helping organizations address gaps, evaluate effectiveness, and quantify ROI.
-
-My focus is on generating evidence to support impactful investments in social determinants of health(SDoH) that improve health outcomes without increasing costs.
+- 💼 I have over 4️⃣ years of experience leading research and data analysis projects and conducting statistical analyses. I primarily use R.
+- 👩🏾‍⚕️ I'm a Clinician with experience conducting assessments and evaluations. I enjoy helping organizations address gaps, evaluate effectiveness, and quantify ROI.
+- 📊 My focus is on generating evidence to support impactful investments in social determinants of health(SDoH) that improve health outcomes without increasing costs.
 
 
 
@@ -30,43 +25,46 @@ My focus is on generating evidence to support impactful investments in social de
 
 
   
-    ### [🏆 Check Out My Portfolio](https://davenalcsw.github.io/)
-  
+### <p align="center">🏆 Check Out My Portfolio</p>
 
+<p align="center">
+<a href="https://davenalcsw.com/"><img src="https://img.shields.io/badge/Website-purple?style=for-the-badge"></a>
+<a href="https://github.com/davenalcsw"><img src="https://img.shields.io/badge/Github-gray?style=for-the-badge"></a>
+<a href="https://scholar.google.com/citations?user=4n88Y7YAAAAJ&hl=en&oi=ao"><img src="https://img.shields.io/badge/Google_Scholar-blue?style=for-the-badge"></a>
+
+## 🛠️ Technical Skillset
+<p>
+<img src="https://img.shields.io/badge/R-Experienced-217346?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
+<img src="https://img.shields.io/badge/Excel-Experienced-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
+<img src="https://img.shields.io/badge/SQL-Beginner-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
+<img src="https://img.shields.io/badge/Python-Beginner-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
+<img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-217346?style=flat" alt="Statistical Analysis Skill Badge">
+<img src="https://img.shields.io/badge/Research%20Methods-Experienced-217346?style=flat" alt="Research Methods Skill Badge">
+</p>
+
+<!--
 ## 🌱 What I'm Currently Learning 
 
 - SQL
 - Python
 
 
-## 🛠️ Technical Skillset
-
-<!--*This section uses Shields.io badges. You can customize them or create your own!* -->
+<!--*This section uses Shields.io badges. You can customize them or create your own!*
 
 #### Data Analysis & Visualization
 <p>
 
 <!--
 -💡 Go to Shields.io to create your own badges -
-  <img src="https://img.shields.io/badge/SQL-Beginner-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
   <img src="https://img.shields.io/badge/Power%20BI-Intermediate-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
-  <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
   <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
 </p>
 -->
-<!--
-#### Programming & Automation
-<p>
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
--->
-  <img src="https://img.shields.io/badge/R-Proficient-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
-</p>
 
 <!--
 #### Business Intelligence & Analytics
 <p>
   <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
   <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
   <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
 </p>
@@ -76,8 +74,9 @@ My focus is on generating evidence to support impactful investments in social de
 
 When I'm not working with data, I enjoy traveling. 
 
-## 📫 How to reach me
+## Interested in collaborating or just want to chat about data, research, and health? ⬇️
 <!-- 🔗 Update these links with your own social media and contact information -->
+
 <p align="center">
 <a href="https://linkedin.com/in/davenamgbeokwere"><img src="https://img.shields.io/badge/LinkedIn-Message Me-blue?style=for-the-badge&logo=linkedin"></a>
 
