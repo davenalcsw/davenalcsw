@@ -6,6 +6,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Enthusiast;Applied+Researcher;Trauma+Therapist;Yogi;Evidence+-->+Actionable+Insights" alt="Typing SVG" />
 </div>
 
+<img width="200px" height="200px" alt="Black woman working at computer" src="https://github.com/user-attachments/assets/57bf299e-3d67-4498-beae-7880697a1046" align="right" />
 
 I'm a Health Researcher/Research Data Analyst + Clinician who is passionate about advancing equity, improving health & well-being outcomes, and transforming healthcare. 
 - 💼 I have over 4️⃣ years of experience leading research and data analysis projects and conducting statistical analyses. I primarily use R.
