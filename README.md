@@ -68,11 +68,12 @@ I'm a Health Researcher/Research Data Analyst + Clinician who is passionate abou
   <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
   <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
 </p>
--->
+
 
 ## ⚡ Fun fact
 
 When I'm not working with data, I enjoy traveling. 
+-->
 
 ## Interested in collaborating or just want to chat about data, research, and health? ⬇️
 <!-- 🔗 Update these links with your own social media and contact information -->
