@@ -3,16 +3,15 @@
 <div align="center">
 <!--  You can customize the typing text in the "lines=" section of the URL below -->
 <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Enthusiast;Applied+Researcher;Trauma+Therapist;Yogi;Evidence+-->+Actionable+Insights" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+and+Empathy;Applied+Researcher;Trauma+Therapist;Systems+Level+Thinker;Evidence+-->+Actionable+Insights" alt="Typing SVG" />
 </div>
 
 <img width="200px" height="200px" alt="Black woman working at computer" src="https://github.com/user-attachments/assets/57bf299e-3d67-4498-beae-7880697a1046" align="right" />
 
 I'm a Health Researcher/Research Data Analyst + Clinician who is passionate about advancing equity, improving health & well-being outcomes, and transforming healthcare. 
-- 💼 I have over 4️⃣ years of experience leading research and data analysis projects and conducting statistical analyses. I primarily use R.
-- 👩🏾‍⚕️ I'm a Clinician with experience conducting assessments and evaluations. I enjoy helping organizations address gaps, evaluate effectiveness, and quantify ROI.
-- 📊 My focus is on generating evidence to support impactful investments in social determinants of health(SDoH) that improve health outcomes without increasing costs.
-
+- 💼 I have over 4️⃣ years of experience conducting statistical analyses. I primarily use R.
+- 👩🏾‍⚕️ I'm a Clinician with over 5️⃣ years of experience leading research and evaluation projects. I enjoy helping organizations address gaps, evaluate effectiveness, and quantify ROI.
+- 📊 My research focuses on the social determinants-mind-body connection and on generating evidence to support impactful investments in solutions that improve health outcomes without increasing costs.
 
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
@@ -76,8 +75,10 @@ I'm a Health Researcher/Research Data Analyst + Clinician who is passionate abou
 When I'm not working with data, I enjoy traveling. 
 -->
 
-## Interested in collaborating or just want to chat about data, research, and health? ⬇️
+## 📩Interested in collaborating or just want to chat about data, research, and health? 
 <!-- 🔗 Update these links with your own social media and contact information -->
+
+I welcome opportunities to connect with individuals and organizations committed to advancing equity and improving health outcomes. Interested in health research and healthcare transformation? Reach out⬇️
 
 <p align="center">
 <a href="https://linkedin.com/in/davenamgbeokwere"><img src="https://img.shields.io/badge/LinkedIn-Message Me-blue?style=for-the-badge&logo=linkedin"></a>
