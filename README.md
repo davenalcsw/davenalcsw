@@ -8,8 +8,8 @@
 
 <img width="200px" height="200px" alt="Black woman working at computer" src="https://github.com/user-attachments/assets/57bf299e-3d67-4498-beae-7880697a1046" align="right" />
 
-I'm a Health Researcher/Research Data Analyst + Clinician who is passionate about advancing equity, improving health & well-being outcomes, and transforming healthcare. 
-- 💼 I have over 4️⃣ years of experience conducting statistical analyses. I primarily use R.
+I'm a Health Researcher/Research Data Analyst + Clinician who is passionate about advancing equity, improving health & well-being, and transforming healthcare. 
+- 💼 I have over 4️⃣ years of experience conducting statistical analyses, primarily using R.
 - 👩🏾‍⚕️ I'm a Clinician with over 5️⃣ years of experience leading research and evaluation projects. I enjoy helping organizations address gaps, evaluate effectiveness, and quantify ROI.
 - 📊 My research focuses on the social determinants-mind-body connection and on generating evidence to support impactful investments in solutions that improve health outcomes without increasing costs.
 
