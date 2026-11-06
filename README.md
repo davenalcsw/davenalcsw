@@ -9,8 +9,8 @@
 <img width="200px" height="200px" alt="Black woman working at computer" src="https://github.com/user-attachments/assets/57bf299e-3d67-4498-beae-7880697a1046" align="right" />
 
 I'm a Health Researcher/Research Data Analyst + Clinician who is passionate about advancing equity, improving health & well-being, and transforming healthcare. 
-- 💼 I have over 4️⃣ years of experience conducting statistical analyses, primarily using R.
-- 👩🏾‍⚕️ I'm a Clinician with over 5️⃣ years of experience leading research and evaluation projects. I enjoy helping organizations address gaps, evaluate effectiveness, and quantify ROI.
+- 💼 I have over 4️⃣ years of experience leading research projects, managing data, conducting statistical analyses, exploring large datasets, and exploring disparities--working with large datasets primarily using R.
+- 👩🏾‍⚕️ I'm a Clinician with over 5️⃣ years of experience supporting and leading evaluation projects. I enjoy helping organizations address gaps, evaluate program outcomes, and quantify risks and benefits.
 - 📊 My research focuses on the social determinants-mind-body connection and on generating evidence to support impactful investments in solutions that improve health outcomes without increasing costs.
 
 
@@ -19,9 +19,9 @@ I'm a Health Researcher/Research Data Analyst + Clinician who is passionate abou
 
 ## 🔭 What I'm Currently Working On 
 
-- Building complex statistical model to identify groups characterized by social risk exposure at high-risk for negative health outcomes
+- Identifying high-risk groups characterized by social risk exposure
 - Assessing links between different measures of neighborhood quality and brain activity
-- Exploring population-level data using SQL and python
+- Exploring population-level data using SQL and Python
 
 
   
@@ -78,7 +78,13 @@ When I'm not working with data, I enjoy traveling.
 ## 📩Interested in collaborating or just want to chat about data, research, and health? 
 <!-- 🔗 Update these links with your own social media and contact information -->
 
-I welcome opportunities to connect with individuals and organizations committed to advancing equity and improving health outcomes. Interested in health research and healthcare transformation? Reach out⬇️
+I welcome opportunities where I can use my skills to help organizations:
+
+* Identify high risk groups and measure disparities across communities
+* Evaluate whether a program, policy, or product improved outcomes and reduce costs
+* Enhance service delivery
+
+If any of these apply, let's chat! ⬇️
 
 <p align="center">
 <a href="https://linkedin.com/in/davenamgbeokwere"><img src="https://img.shields.io/badge/LinkedIn-Message Me-blue?style=for-the-badge&logo=linkedin"></a>
